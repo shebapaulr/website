@@ -2,14 +2,14 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Sheba Paul
+Sheba Paul
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+shebapaulr@gmail.com
 
 Phone
 +1 (213) 352-2795
