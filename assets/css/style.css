@@ -331,9 +331,13 @@ main {
   gap: 15px;
 }
 
-.avatar-box {
-  background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+
+.social-list .social-item a {
+  color: var(--orange-yellow-crayola);
+}
+
+.social-list .social-item a:hover {
+  color: darken(var(--orange-yellow-crayola), 10%);
 }
 
 .info-content .name {
